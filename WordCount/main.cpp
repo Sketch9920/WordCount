@@ -13,7 +13,7 @@ long tkc, tkl, tkw;
 void wc(FILE* fd, const char* f);
 
 /***************************
-paraneters:
+parameters:
 WordCount.exe -[options] Test.DOC
 or
 WordCount.exe Test.DOC
